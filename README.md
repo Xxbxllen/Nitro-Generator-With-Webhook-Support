@@ -8,3 +8,5 @@ Note:
 -Cooldown must be at least 3(If you want faster buy from me :P)
 
 Support server > https://discord.gg/FktyQxNgSz
+
+!!Do not remove the credit!!
