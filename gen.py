@@ -5,8 +5,8 @@ sendwebhookwhenratelimited = "true"
 cooldown = 3 #Cooldown Must Be At Least 3(To Get Faster One Buy From Eithan)
 
 #Webhook:
-invalidwebhook =  "" #webhook to be sent if invalid
-validwebhook =  "" #webhook to be sent when valid
+invalidwebhook =  "https://discord.com/api/webhooks/999148646119522304/ID-8u5_FN6w4OExDN3rSorC4dcNyzGRtMVtLSeJSFvukLDk0Xx2Axn-6eJ6NdGKVxIJh" #webhook to be sent if invalid
+validwebhook =  "https://discord.com/api/webhooks/985625600834293782/VhNPpKggxGsLyVpjYokJdtnfKL0Sc3grifIf82Y2VtoJjGOD50RamWRHNs35qgRiCu87" #webhook to be sent when valid
 
 copyright='Obfuscated by https://pyobfuscate.com'
 class Pyobfuscate_com():
